@@ -18,8 +18,10 @@ class ViewController: UIViewController {
 		// C2_Publisher_Subscribers.test1()
 		// C2_Publisher_Subscribers.test_just()
 		// C2_Publisher_Subscribers.test_assign()
-		
-		C2_Publisher_Subscribers.test_custom_subscriber()
+		// C2_Publisher_Subscribers.test_custom_subscriber()
+		// C2_Publisher_Subscribers.test_future()
+		// C2_Publisher_Subscribers.test_subject_PassthroughSubject()
+		C2_Publisher_Subscribers.test_subject_CurrentValueSubject()
 		
 	}
 
